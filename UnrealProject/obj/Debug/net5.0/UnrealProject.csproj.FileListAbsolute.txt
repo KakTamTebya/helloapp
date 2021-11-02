@@ -1,0 +1,16 @@
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.exe
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.deps.json
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.runtimeconfig.json
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.runtimeconfig.dev.json
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.dll
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\ref\UnrealProject.dll
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\bin\Debug\net5.0\UnrealProject.pdb
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.csproj.AssemblyReference.cache
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.AssemblyInfoInputs.cache
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.AssemblyInfo.cs
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.dll
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\ref\UnrealProject.dll
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.pdb
+C:\Users\Nikita Kourov\Desktop\git-actually\helloapp-black\UnrealProject\obj\Debug\net5.0\UnrealProject.genruntimeconfig.cache
