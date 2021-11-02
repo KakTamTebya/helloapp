@@ -15,6 +15,8 @@ namespace UnrealProject
         static void Main(string[] args)
         {
             Console.WriteLine("hello everyone");
+            GreetBlack();
+            GreetWhite();
         }
     }
 }
